@@ -1,5 +1,5 @@
 {
-  "name": "blockcypher/php-client",
+  "name": "ben-nsng/php-client",
   "description": "BlockCypher's PHP SDK for REST API",
   "keywords": [
     "blockcypher",
@@ -10,7 +10,7 @@
   ],
   "type": "library",
   "license": "Apache2",
-  "homepage": "https://github.com/blockcypher/php-client",
+  "homepage": "https://github.com/ben-nsng/php-client",
   "authors": [
     {
       "name": "BlockCypher",
